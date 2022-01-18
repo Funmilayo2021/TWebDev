@@ -1,0 +1,22 @@
+.form{
+    background-color: cornsilk;
+    font: bolder;
+    font-size: medium;
+    
+}
+.form p1{
+    text-align: center;
+    font-weight: bolder;
+    font-style: arial;
+}
+label{
+    color: black;
+    font-weight: 100;
+    font-style: normal;
+}
+p1{
+    position: absolute;
+    text-align: center;
+    font-size: medium;
+    bottom: 2px;
+}
